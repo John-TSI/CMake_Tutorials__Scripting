@@ -1,0 +1,3 @@
+C:/msys64/home/CMakeTutorials/CMakeGood/Scripting/build/CMakeFiles/Scripting.dir
+C:/msys64/home/CMakeTutorials/CMakeGood/Scripting/build/CMakeFiles/edit_cache.dir
+C:/msys64/home/CMakeTutorials/CMakeGood/Scripting/build/CMakeFiles/rebuild_cache.dir
